@@ -1,4 +1,3 @@
-// Coded by s1ege greetz to all GSH members
 #include <winsock2.h>
 #include "windows.h"
 #include <iostream> 
